@@ -14,6 +14,7 @@ The application has been fully Dockerized, making it easier to set up and run us
 ### Prerequisites
 Make sure you have the following installed on your machine:
 - [Docker Desktop](https://www.docker.com/products/docker-desktop)
+- [Postman](https://www.postman.com/)
 
 ---
 
